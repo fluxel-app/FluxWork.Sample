@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluxWork.Sample", "FluxWork.Sample\FluxWork.Sample.csproj", "{DAD9A3B2-BDAE-4BC6-96A6-79A01B1FDC60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleLib", "SampleLib\SampleLib.csproj", "{7C1BF2F5-32C7-4EAA-99E3-3107371EF535}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAD9A3B2-BDAE-4BC6-96A6-79A01B1FDC60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD9A3B2-BDAE-4BC6-96A6-79A01B1FDC60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD9A3B2-BDAE-4BC6-96A6-79A01B1FDC60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD9A3B2-BDAE-4BC6-96A6-79A01B1FDC60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C1BF2F5-32C7-4EAA-99E3-3107371EF535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C1BF2F5-32C7-4EAA-99E3-3107371EF535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C1BF2F5-32C7-4EAA-99E3-3107371EF535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C1BF2F5-32C7-4EAA-99E3-3107371EF535}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

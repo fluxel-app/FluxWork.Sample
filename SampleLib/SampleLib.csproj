@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net472</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Page Include="Presentation\Dialog\DialogView.xaml" />
+      <Page Include="Presentation\First\FirstView.xaml" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="FluxWork" Version="1.0.1" />
+    </ItemGroup>
+
+</Project>
